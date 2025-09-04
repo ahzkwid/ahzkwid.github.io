@@ -24,7 +24,7 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/5715f9f2-64c5-4f01-92b9-149d6d023765" />
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66cc0409-a869-43aa-b365-5cd6285bc2be" />
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/09cc974b-b2ec-4d5b-a1e2-6900a186c97c" />
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/06aab3ba-a05d-4c67-bee9-baf5bc484134" />
+<a href="https://ahzkwid.booth.pm/items/1699129" target="_blank" title="トマトベレー帽"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/06aab3ba-a05d-4c67-bee9-baf5bc484134" /></a>
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2c9d14ad-b423-4e23-9971-af60074aba77" />
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/dba10b64-69c1-494a-826d-214e855a1b49" />
 
