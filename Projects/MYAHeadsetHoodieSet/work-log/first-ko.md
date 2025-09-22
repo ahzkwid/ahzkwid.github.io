@@ -646,8 +646,68 @@ https://x.com/i/status/1786419685422149699
 <img width="438" height="679" alt="image" src="https://github.com/user-attachments/assets/e2383cd2-0502-44e8-a602-982e0f52eb39" />
 찐찐찐찐막
 
+<img width="529" height="663" alt="image" src="https://github.com/user-attachments/assets/f964ba9c-2c34-4a48-9190-b5d7992bd903" />
+검정 바리에이션
+
+
+# 2024-05-06
+
+<img width="580" height="574" alt="image" src="https://github.com/user-attachments/assets/37b6181f-84f5-483d-8307-ebd31ee9cce5" />
+
+핑크 바리에이션
+
+
+고앵이 그림
+
+
+<img width="454" height="406" alt="image" src="https://github.com/user-attachments/assets/d37ee304-93e7-4628-9a78-ebe0e6a4aa29" />
+
+
+여기에 넣음
 
 
 
 
+<img width="537" height="564" alt="image" src="https://github.com/user-attachments/assets/02545478-6877-4116-abaf-a3693c9b741e" />
 
+하네스 추가
+
+# 2024-05-07
+
+<img width="246" height="271" alt="image" src="https://github.com/user-attachments/assets/4098b578-4a7d-4482-8b93-e1042a425e1e" />
+
+
+보라색 바리에이션
+
+<img width="457" height="680" alt="image" src="https://github.com/user-attachments/assets/dbc765b0-c14e-44b6-ae86-2840b706b16f" />
+
+보라색 2차 수정
+
+
+
+<img width="554" height="658" alt="image" src="https://github.com/user-attachments/assets/2ba87533-8d33-43f1-b06c-d83177d77cc7" />
+
+3차수정
+
+
+<img width="609" height="562" alt="image" src="https://github.com/user-attachments/assets/b9ce58e0-10d1-43df-ace8-8b10f54a6cf3" />
+
+4차
+
+
+
+# 2024-05-08
+
+<img width="680" height="643" alt="image" src="https://github.com/user-attachments/assets/47054259-2f37-44d9-ab9b-7d7c2fdb370e" />
+이번 섬네일
+
+
+# 2024-05-09
+
+<img width="680" height="643" alt="image" src="https://github.com/user-attachments/assets/e58fae4b-2bd8-4bc3-90aa-1845b313151f" />
+섬네일 2번
+
+
+# 2024-05-10
+
+종료
