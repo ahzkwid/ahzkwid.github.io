@@ -115,3 +115,10 @@ Lerp가 0.1초 이동때문에 매끄럽지 않았다
 
 
 Hip,UpperLeg기준으로 위치를 잡던것에 LowerLeg도 추가함
+
+
+<img width="1920" height="1080" alt="VRChat_2025-09-24_06-54-33 297_1920x1080" src="https://github.com/user-attachments/assets/0e0e6b91-e095-4320-a003-1f06d311d6ef" />
+
+<img width="1920" height="1080" alt="VRChat_2025-09-24_07-39-50 683_1920x1080" src="https://github.com/user-attachments/assets/2406d0f1-c6a7-459d-b0ba-490d900a37f5" />
+
+완료
