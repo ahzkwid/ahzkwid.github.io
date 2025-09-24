@@ -61,3 +61,17 @@
 
 수정완료
 
+
+
+# 셔츠작업
+
+<img width="591" height="816" alt="image" src="https://github.com/user-attachments/assets/2fb9ee99-9e21-4cd7-8993-0fa73dd7e28a" />
+
+
+다행스럽게도 셔츠가 몸통에 파묻히지 않는다
+
+이러면 작업량이 줄어든다
+
+<img width="471" height="552" alt="image" src="https://github.com/user-attachments/assets/6c54879d-8e50-4add-b4e3-1d5c093b95b7" />
+
+몸통에 비해 살짝 떠있다
