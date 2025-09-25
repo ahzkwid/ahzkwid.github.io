@@ -75,3 +75,14 @@
 <img width="471" height="552" alt="image" src="https://github.com/user-attachments/assets/6c54879d-8e50-4add-b4e3-1d5c093b95b7" />
 
 몸통에 비해 살짝 떠있다
+
+
+
+# 2025-09-25
+
+<img width="274" height="204" alt="image" src="https://github.com/user-attachments/assets/91affb90-5739-453a-b6e1-781e671d91df" />
+
+새로운 쉐이프키를 추가중이다
+
+그런데 이 작업을 하기위해선 기본 블렌더론 무리가 있어 새로운 블렌더 플러그인을 두개나 만들었다
+
