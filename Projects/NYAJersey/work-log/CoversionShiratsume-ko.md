@@ -86,3 +86,12 @@
 
 그런데 이 작업을 하기위해선 기본 블렌더론 무리가 있어 새로운 블렌더 플러그인을 두개나 만들었다
 
+
+# 2025-09-26
+<img width="626" height="831" alt="image" src="https://github.com/user-attachments/assets/d6ea036b-4a46-4fbd-83d9-f49d1f3bc5ad" />
+
+음 좋은 느낌
+
+플러그인 한개는 원하던 동작이 안 나와서 폐기
+
+다른 한개는 지독한 버그때문에 부분부분 활용중
