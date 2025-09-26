@@ -95,3 +95,9 @@
 플러그인 한개는 원하던 동작이 안 나와서 폐기
 
 다른 한개는 지독한 버그때문에 부분부분 활용중
+
+<img width="284" height="302" alt="image" src="https://github.com/user-attachments/assets/deae6e6c-0813-4bf8-af65-23defa07e8b6" />
+
+좀 더 다듬어 보았다
+
+하지만 약간 뭔가 부족하다
