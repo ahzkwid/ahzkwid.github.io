@@ -101,3 +101,48 @@
 좀 더 다듬어 보았다
 
 하지만 약간 뭔가 부족하다
+
+
+# 2025-09-27
+
+<img width="358" height="378" alt="image" src="https://github.com/user-attachments/assets/fc79430a-8760-4eae-bdb2-1c7e4f28811a" />
+
+조금 귀여워지긴 했지만 아직 너무 어른스럽다
+
+어른스럽다? 옷이 작아보이기 때문일것이다
+
+이렇게 일부만 보이는데 옷이 작아보인다는것은 왜일까
+
+반대로 생각해보자 옷이 크면 오버핏이 된다
+
+그것은 목같은 다른 부분도 커진다는소리이다
+
+그래서
+
+<img width="351" height="383" alt="image" src="https://github.com/user-attachments/assets/d9f672db-8725-4077-970b-d1f5e5170afa" />
+
+
+카라를 키웠다
+
+근데 너무 키워서 장교처럼 되어버렸다
+
+윽
+
+<img width="317" height="361" alt="image" src="https://github.com/user-attachments/assets/bff3e1e4-31b2-4df6-a45d-8fd879516f70" />
+
+
+그래서 조금 줄이고 가슴부분도 직선화 했다
+
+성인옷은 안쪽으로 곡선이 많기 때문에 직선으로 한 것이다
+
+그리고 내린 어깨도 돌렸다
+
+어깨 돌린 이유는 내린것보다 올린게 더 인기 좋았었으니까
+
+<img width="727" height="794" alt="image" src="https://github.com/user-attachments/assets/92147e43-7c71-43d0-bb45-4a116d39c5b7" />
+
+[https://x.com/ahzkwid/status/1971626137131622545](https://x.com/ahzkwid/status/1971626137131622545)
+
+v1.1.0 공개했다
+
+
