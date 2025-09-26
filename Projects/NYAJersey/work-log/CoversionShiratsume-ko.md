@@ -139,7 +139,7 @@
 
 어깨 돌린 이유는 내린것보다 올린게 더 인기 좋았었으니까
 
-<img width="727" height="794" alt="image" src="https://github.com/user-attachments/assets/92147e43-7c71-43d0-bb45-4a116d39c5b7" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/92147e43-7c71-43d0-bb45-4a116d39c5b7" />
 
 [https://x.com/ahzkwid/status/1971626137131622545](https://x.com/ahzkwid/status/1971626137131622545)
 
