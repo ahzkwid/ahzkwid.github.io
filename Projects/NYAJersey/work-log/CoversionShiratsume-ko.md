@@ -145,4 +145,16 @@
 
 v1.1.0 공개했다
 
+<img width="428" height="430" alt="image" src="https://github.com/user-attachments/assets/1a79730a-4098-4d30-9464-bf2cde832fdc" />
 
+이번엔 밀피 대응 시작
+
+쉐이프키를 그대로 이식했는데 뭔가 느낌이 다르다
+
+이대로 올려도 괜찮겠지만 조금만 수정 해주기로 했다
+
+<img width="279" height="305" alt="image" src="https://github.com/user-attachments/assets/c0376199-516f-4960-845b-15fcac976a5d" />
+
+더 올리는게 좋은거 같아보이긴 하지만 얇은것만의 맛도 있으므로 이정도에서 끝냈다
+
+밀피도 v1.1.0 완료
