@@ -158,3 +158,89 @@ v1.1.0 공개했다
 더 올리는게 좋은거 같아보이긴 하지만 얇은것만의 맛도 있으므로 이정도에서 끝냈다
 
 밀피도 v1.1.0 완료
+
+
+# 2025-09-28
+[](https://ahzkwid.github.io/BoothSupport/UpdateHistory/NYAJersey#2025-09-28)
+
+시라츠메 작업하고 있었는데 버그를 3개나 발견해서 수정했다
+
+
+# 2025-09-29
+
+<img width="321" height="355" alt="image" src="https://github.com/user-attachments/assets/0dc61bc0-60a1-4edf-a0e8-bb9d60d18f2f" />
+
+어깨부분 버그를 고치다가 못생겨져서 재작업해야한다
+
+<img width="311" height="411" alt="image" src="https://github.com/user-attachments/assets/0b9bd88b-e4af-4467-8388-72a2548f3e70" />
+
+
+아무리 해도 둥글게 떨어지지 않아서 이번엔 넥라인을 피부에 밀착시키지 않고 살짝 이격을 두었다
+
+마메의상때도 이렇게 했었지
+
+그런데 극적인 변화가 없길래 다시 돌렸다
+
+<img width="671" height="677" alt="image" src="https://github.com/user-attachments/assets/415e6fc4-78bf-465f-88e0-19866c183de2" />
+
+그렇다 어깨를 너무 좁혀서 각져보이는것이였다
+
+그래서 어깨를 어느정도 넓히기로 했다. 이건 내가 어떻게 못 하니까
+
+각진 어깨 vs 넓은 어깨
+
+이 사이에서 줄다리기를 해야 하는것이다
+
+<img width="225" height="306" alt="image" src="https://github.com/user-attachments/assets/64b3287a-6c81-4cca-8217-4d08bd772f43" />
+<img width="256" height="271" alt="image" src="https://github.com/user-attachments/assets/5bcda8ff-2e61-4807-8375-3855e0a71955" />
+
+그러던중 우연히 이것을 발견했는데 이걸 활용해보기로 했다
+
+이것을 활용하면 일시적으로 어깨가 넓어져도 다시 좁아지는 부분 때문에 
+
+어깨가 넓어진것이 아니라 옷주름이라고 착각하게 된다.
+
+더불어 어깨도 둥글어지니까 일석이조다.
+
+<img width="694" height="751" alt="image" src="https://github.com/user-attachments/assets/78534327-fbec-4098-b838-79445ac2f199" />
+
+우연의 일치인지 시라츠메 어깨도 이런 구조이기는 하다
+
+물론 이것은 인체의 구조를 위해 이렇게 만들어진것이라 용도는 다르긴 하지만
+
+애초에 이런 구조로 설계된 본 구조이기 때문에 이 형상이 적합한것같다
+
+<img width="256" height="288" alt="image" src="https://github.com/user-attachments/assets/15050126-2bca-40d0-a7a9-ef88ef37531a" />
+
+완성본
+
+<img width="742" height="866" alt="image" src="https://github.com/user-attachments/assets/123989b8-a4fa-45a1-924b-2b0f1a777fd3" />
+
+신기한점은 엄청나게 수정해댔는데도 이전버전(검정색)과 비교하면 미미한 차이라는것이다
+
+내가 이 형태를 좋아하는지 수정해도 이쪽으로 수렴된다
+
+
+<img width="302" height="293" alt="image" src="https://github.com/user-attachments/assets/f14d8f25-c48b-49d7-beed-8d384d83a816" />
+
+이번엔 Open2에 그림자가 이상하게 지는것을 발견했다 
+
+<img width="369" height="311" alt="image" src="https://github.com/user-attachments/assets/1e818119-8b39-4e2e-93c8-4edd8cad23f9" />
+
+수정완료
+
+겸사겸사 밸런스도 어느정도 조정했다
+
+<img width="797" height="959" alt="image" src="https://github.com/user-attachments/assets/af825cbd-eb29-4d87-8eab-316ad87c9ec7" />
+
+Shirink 작업
+
+Anchor 작업
+
+<img width="403" height="518" alt="image" src="https://github.com/user-attachments/assets/e9d5f095-58db-4ba2-9447-906bf756f351" />
+
+마테리얼 설정을 시라츠메에 동기화
+
+<img width="1931" height="1931" alt="image" src="https://github.com/user-attachments/assets/607a48af-3614-48eb-8fec-bb3e1fe86775" />
+
+대응완료
