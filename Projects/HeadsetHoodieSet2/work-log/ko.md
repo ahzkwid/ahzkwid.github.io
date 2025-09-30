@@ -50,3 +50,13 @@
 후디는 후드라인이 파커보다 위에 있다
 
 그래서 위로 쭉 올림
+
+<img width="518" height="668" alt="image" src="https://github.com/user-attachments/assets/1ee2e96e-f701-4ddd-90da-463330c5d6a2" />
+
+올릴떄 높이도 올렸는데 덕분에 어깨라인도 거지같이 됐다
+
+<img width="529" height="690" alt="image" src="https://github.com/user-attachments/assets/3d94281c-b8d9-44bc-b0bd-80329c578164" />
+
+그래서 좀 내리고 만화스럽게를 가미했다
+
+오 이거 괜찮은데?
