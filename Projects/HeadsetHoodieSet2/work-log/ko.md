@@ -40,3 +40,13 @@
 
 
 # 2025-09-30
+
+<img width="837" height="832" alt="image" src="https://github.com/user-attachments/assets/8d09b5ff-0b66-48d2-aad1-ccaa719656ed" />
+
+후디와 파커의 차이
+
+지퍼 유무차이만 있는게 아니다
+
+후디는 후드라인이 파커보다 위에 있다
+
+그래서 위로 쭉 올림
