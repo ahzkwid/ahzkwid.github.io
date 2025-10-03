@@ -68,3 +68,34 @@
 제작시간이 너무 들어가서 전에 만든 맨투맨을 재활용하기로 했다
 
 전에 옷도 핏 잡는데 엄청난 시간을 썼었으니까 또 같은 짓을 하는건 너무 비싼 비용이다
+
+
+# 2025-10-02
+<img width="373" height="548" alt="image" src="https://github.com/user-attachments/assets/f59491ed-dd93-463c-b414-e5beb36df995" />
+
+끈이 그림을 가리길래 넓혔는데 음 별로다
+
+<img width="583" height="870" alt="image" src="https://github.com/user-attachments/assets/4aef5727-34f5-42e9-b7ea-1cb187038187" />
+
+삼각형모양으로 하는것도 별로였다
+
+<img width="554" height="917" alt="image" src="https://github.com/user-attachments/assets/cb5bbe93-8cbd-410d-a354-ac777159e4aa" />
+
+
+음... 그림을 바꾸는것이 베스트인가
+
+
+<img width="225" height="251" alt="image" src="https://github.com/user-attachments/assets/3eebbbc7-0f95-4925-9609-35817a2de07b" />
+
+
+인겜 들어가보니 어깨에 갑옷 올려놓은것처럼 되었길래 이거도 줄이기로 했다
+
+<img width="232" height="238" alt="image" src="https://github.com/user-attachments/assets/b2e1e068-2add-44a0-9a63-98108f0dde0b" />
+
+줄인모습
+
+
+# 2025-10-03
+<img width="520" height="668" alt="image" src="https://github.com/user-attachments/assets/549f94de-a44f-4c4d-989b-f526637008b3" />
+
+소매까지 재탕은 너무한거 같아서 새로 만들기로 했다
