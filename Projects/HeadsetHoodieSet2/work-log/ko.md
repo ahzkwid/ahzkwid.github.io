@@ -99,3 +99,34 @@
 <img width="520" height="668" alt="image" src="https://github.com/user-attachments/assets/549f94de-a44f-4c4d-989b-f526637008b3" />
 
 소매까지 재탕은 너무한거 같아서 새로 만들기로 했다
+
+
+
+# 2025-10-04
+
+<img width="376" height="854" alt="image" src="https://github.com/user-attachments/assets/29f3a01a-5052-4389-9059-3b665d07f2b5" />
+
+2차
+
+이번엔 과감하게 Y2K세라복 만들때 썼던 기법으로 소매를 만들었다
+
+원래 나는 이 기법이였다만, Y2K세라가 너무 안 팔려서 이 기법에 두려움을 가지고 있었다
+
+그런데 이번엔 저렴한 옷이니까 이렇게해도 딱히 상관없을것 같았다
+
+심지어 원래 쓰던 기법이니 빨리 만들어지고 좋았다
+
+
+흠, 무서워서 아끼던 기법도 시험해볼수 있어 좋은걸? 저렴한옷도 자주 만들어봐야겠다
+
+
+<img width="572" height="663" alt="image" src="https://github.com/user-attachments/assets/bd7b13ca-fbdf-46ed-9fa3-93417a1b8dd3" />
+
+헤드셋은 쉐이프키 제외 모든 작업이 끝났다
+
+
+
+
+
+
+
