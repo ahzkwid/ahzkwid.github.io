@@ -124,9 +124,17 @@
 
 헤드셋은 쉐이프키 제외 모든 작업이 끝났다
 
+# 2025-10-06
+
+피본작업 했다
 
 
 
+# 2025-10-07
+
+<img width="338" height="636" alt="image" src="https://github.com/user-attachments/assets/aaf4659c-9344-48bd-b347-4e04bdd734ac" />
+
+모든 텍스처와 메쉬 작업이 끝났다
 
 
 
