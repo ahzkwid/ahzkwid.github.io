@@ -142,4 +142,6 @@
 메쉬와 마테리얼 별도로 만들어주는거도 작업이니까 줄이기로 한것이다
 
 
+<img width="378" height="532" alt="image" src="https://github.com/user-attachments/assets/92229d3e-668e-48e5-8f42-874db024abfc" />
 
+헤드셋과 후디 쉐이프키 작업도 끝났다
