@@ -132,9 +132,14 @@
 
 # 2025-10-07
 
-<img width="338" height="636" alt="image" src="https://github.com/user-attachments/assets/aaf4659c-9344-48bd-b347-4e04bdd734ac" />
+<img width="511" height="777" alt="image" src="https://github.com/user-attachments/assets/7ae98d80-4eb9-4106-9e0f-f454dd3fc871" />
+
 
 모든 텍스처와 메쉬 작업이 끝났다
+
+이번엔 금속물을 최소화 했다.
+
+메쉬와 마테리얼 별도로 만들어주는거도 작업이니까 줄이기로 한것이다
 
 
 
