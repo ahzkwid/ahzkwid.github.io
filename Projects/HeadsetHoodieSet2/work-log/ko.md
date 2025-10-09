@@ -151,3 +151,18 @@
 # 2025-10-08
 
 쇼콜라 패키징 완료
+
+
+
+# 2025-10-09
+
+<img width="442" height="944" alt="image" src="https://github.com/user-attachments/assets/56192f53-aa3d-446d-b0a2-7f0975588ade" />
+
+시폰 대응중
+
+바지가 딱 맞는다
+
+음 원래 바지입은걸 기준으로 만든것이였지
+
+핏을 조정하지 않길 잘 했다
+
