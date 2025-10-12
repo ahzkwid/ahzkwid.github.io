@@ -187,3 +187,13 @@
 따라서 이번 시나노 의상은 성인스럽게 해보았고 만족스러운 결과물을 얻을수 있었다
 
 시나노 또한 대응 완료
+
+
+# 2025-10-12
+
+<img width="635" height="567" alt="image" src="https://github.com/user-attachments/assets/23820ff4-1fbc-4696-8d14-69f906350159" />
+
+Lapwing테스트
+
+어울리니 진행해봐야겠다
+
