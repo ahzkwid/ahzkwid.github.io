@@ -197,3 +197,6 @@ Lapwing테스트
 
 어울리니 진행해봐야겠다
 
+<img width="584" height="590" alt="image" src="https://github.com/user-attachments/assets/4b20e060-c5d4-40ed-82e0-4ffe98c05292" />
+
+대응 끝
