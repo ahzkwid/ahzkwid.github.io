@@ -200,3 +200,9 @@ Lapwing테스트
 <img width="584" height="590" alt="image" src="https://github.com/user-attachments/assets/4b20e060-c5d4-40ed-82e0-4ffe98c05292" />
 
 대응 끝
+
+# 2025-10-13
+
+<img width="782" height="602" alt="image" src="https://github.com/user-attachments/assets/d386042d-1097-4669-8866-e997c76d02d6" />
+
+Mao끝
