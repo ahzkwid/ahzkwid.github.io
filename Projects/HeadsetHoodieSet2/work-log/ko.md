@@ -206,3 +206,9 @@ Lapwing테스트
 <img width="782" height="602" alt="image" src="https://github.com/user-attachments/assets/d386042d-1097-4669-8866-e997c76d02d6" />
 
 Mao끝
+
+
+# 2025-10-14
+<img width="640" height="635" alt="image" src="https://github.com/user-attachments/assets/49f8bce0-3a30-4142-bb49-f421d54d23f2" />
+
+Ichigo끝
