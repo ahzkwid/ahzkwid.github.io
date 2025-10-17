@@ -212,3 +212,16 @@ Mao끝
 <img width="640" height="635" alt="image" src="https://github.com/user-attachments/assets/49f8bce0-3a30-4142-bb49-f421d54d23f2" />
 
 Ichigo끝
+
+
+
+# 2025-10-16
+
+<img width="369" height="544" alt="image" src="https://github.com/user-attachments/assets/6ac81270-3656-44b9-9a11-de271e064ebf" />
+
+Milltina도 대응했다
+
+밀티나부터는 더욱 효율적인 작업을 위해 헤드셋과 신발은 완성품을 수정하는것으로 하고 몸통만 새로 작업하는것으로 했다
+
+그런데 밀티나는 가슴 쉐이프키도 많고 kisekae에 가슴메뉴가 없어서 대응해주느라 좀 더 시간이 걸렸다
+
