@@ -53,3 +53,14 @@
 <img width="713" height="652" alt="image" src="https://github.com/user-attachments/assets/df6f6a6e-31cc-4557-a28a-c5e62717d801" />
 
 노출이 너무 낮아서 아래도 찢었다
+
+
+
+# 2025-10-18
+
+
+
+<img width="1314" height="1256" alt="image" src="https://github.com/user-attachments/assets/eeb46a3c-932f-4de4-bc70-86eaea9315a1" />
+
+대응 끝
+
