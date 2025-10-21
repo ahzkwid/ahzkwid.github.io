@@ -52,3 +52,7 @@
 
 
 # 2025-10-21
+
+<img width="670" height="1014" alt="image" src="https://github.com/user-attachments/assets/56882323-3125-4d9c-b5d6-e56759309f94" />
+
+대응 완료
