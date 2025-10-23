@@ -225,3 +225,20 @@ Milltina도 대응했다
 
 그런데 밀티나는 가슴 쉐이프키도 많고 kisekae에 가슴메뉴가 없어서 대응해주느라 좀 더 시간이 걸렸다
 
+
+
+
+# 2025-10-17
+루미나 발매로 인해
+잠시 중단
+
+# 2025-10-22
+루루네 대응시작
+
+
+# 2025-10-23
+
+<img width="600" height="822" alt="image" src="https://github.com/user-attachments/assets/544ba03a-8f56-4a93-936a-ee3d83a96551" />
+
+
+루루네 대응완료
