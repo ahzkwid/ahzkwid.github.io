@@ -244,3 +244,9 @@ Milltina도 대응했다
 루루네 대응완료
 
 그리고 루루네 대응하면서 헤드셋 마이크는 얼굴이 아니라 목으로 향해야 한다는것을 알았다
+
+
+# 2025-10-24
+<img width="516" height="779" alt="image" src="https://github.com/user-attachments/assets/7f201678-db1c-4d50-8e7f-08da0bf68a60" />
+
+마리시아 대응완료
