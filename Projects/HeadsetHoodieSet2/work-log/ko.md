@@ -250,3 +250,8 @@ Milltina도 대응했다
 <img width="516" height="779" alt="image" src="https://github.com/user-attachments/assets/7f201678-db1c-4d50-8e7f-08da0bf68a60" />
 
 마리시아 대응완료
+
+
+<img width="585" height="695" alt="image" src="https://github.com/user-attachments/assets/acc53c2b-2893-4597-9938-bf0c705f0989" />
+
+루미나는 일반후디로 대응해둔게 있어서 빨리 끝났다
