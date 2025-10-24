@@ -255,3 +255,7 @@ Milltina도 대응했다
 <img width="585" height="695" alt="image" src="https://github.com/user-attachments/assets/acc53c2b-2893-4597-9938-bf0c705f0989" />
 
 루미나는 일반후디로 대응해둔게 있어서 빨리 끝났다
+
+<img width="431" height="566" alt="image" src="https://github.com/user-attachments/assets/955bfc26-02d4-4779-a44c-7165318c8485" />
+
+나노데비도 완료
