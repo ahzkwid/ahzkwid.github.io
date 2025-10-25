@@ -258,9 +258,23 @@ Milltina도 대응했다
 
 <img width="431" height="566" alt="image" src="https://github.com/user-attachments/assets/955bfc26-02d4-4779-a44c-7165318c8485" />
 
+
+
+
+
 나노데비도 완료
 
 
 <img width="540" height="781" alt="image" src="https://github.com/user-attachments/assets/0336dc0b-d2bd-4b34-bcd5-f298712fa628" />
 
 리리카도 대응 완료
+
+
+
+# 2025-10-25
+
+
+<img width="295" height="579" alt="image" src="https://github.com/user-attachments/assets/dba6ebff-7147-48c6-851f-568dc43bd26c" />
+
+
+마후유도 대응 완료
