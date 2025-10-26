@@ -300,3 +300,8 @@ Milltina도 대응했다
 하지만 성인베이스에서는 제일 어리기에 루미나보단 약간 어리게 맞췄다
 
 현재 대응의상중 성인베이스는 루미나와 시오 단 두개밖에 없다
+
+
+<img width="380" height="802" alt="image" src="https://github.com/user-attachments/assets/3b20715a-4834-46d0-a4c6-fc9ee9f24062" />
+
+시오도 완성
