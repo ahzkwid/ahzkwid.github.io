@@ -1,5 +1,8 @@
 
+# ショコラ
 
+
+https://x.com/KURAkuri_o3o/status/1982069082280366141
 
 
 # リナシータ
