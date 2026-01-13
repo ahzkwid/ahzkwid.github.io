@@ -41,7 +41,7 @@
 
 <img width="489" height="831" alt="image" src="https://github.com/user-attachments/assets/55f56b3f-2f37-4bfd-af72-20b75ec7d69d" />
 
-이 화면에서 Default모션이 아니라 AFK모션이 나오는것을 보니 애니메이션 순서문제이리라
+이 화면에서 Default모션이 아니라 AFK모션이 나오는것을 보니 애니메이션 순서문제인가
 
 
 <img width="278" height="303" alt="image" src="https://github.com/user-attachments/assets/4972c8f5-c8c0-42f6-9533-01a6a741cb21" />
@@ -51,3 +51,8 @@
 언더바를 넣어서 맨 위로 올려줬다
 
 근데 이렇게 해도 안 고쳐짐 아놔
+
+
+<img width="333" height="364" alt="image" src="https://github.com/user-attachments/assets/2eaccbc5-3c2b-4b9a-b0e8-4cf68ab23c1d" />
+
+이걸로 고쳤다
