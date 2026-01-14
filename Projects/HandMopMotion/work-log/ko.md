@@ -1,4 +1,4 @@
-# 손걸레 모션 제작 일지
+# 물걸레질 모션 제작 일지
 
 # 2026-01-12
 
@@ -56,3 +56,25 @@
 <img width="333" height="364" alt="image" src="https://github.com/user-attachments/assets/2eaccbc5-3c2b-4b9a-b0e8-4cf68ab23c1d" />
 
 이걸로 고쳤다
+
+
+# 2026-01-14
+
+<img width="253" height="263" alt="image" src="https://github.com/user-attachments/assets/00c78c02-e227-46fe-9f3e-8f4b0134dcaf" />
+
+
+모션 추가
+
+<img width="288" height="302" alt="image" src="https://github.com/user-attachments/assets/58e10e91-bf1c-4f62-bb3f-fd6c3b2bfa66" />
+
+
+<img width="273" height="263" alt="image" src="https://github.com/user-attachments/assets/6d30bd81-8005-4f72-b27c-237ba7a16a30" />
+
+UI추가
+
+<img width="893" height="508" alt="image" src="https://github.com/user-attachments/assets/2ddfb6a4-05fb-4fc9-83c3-6f9bdc054649" />
+
+<img width="801" height="335" alt="image" src="https://github.com/user-attachments/assets/998ee087-d7c7-41f4-9f32-da9b8fb03775" />
+
+걸레 2종 추가
+
