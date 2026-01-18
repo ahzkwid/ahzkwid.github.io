@@ -93,3 +93,35 @@ UI추가
 25개중 4개는 대응 어려움으로 인해 폐기했다
 
 그래서 총 21개
+
+
+# 2026-01-18
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e7bb5ba-27a1-4c3b-9396-177d684adb12" />
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1331f488-360a-445b-9a43-268e44b75ca5" />
+
+
+<img width="1024" height="892" alt="image" src="https://github.com/user-attachments/assets/4937d765-efe3-4632-99e8-641d0df6f3bd" />
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9e259637-0953-4c3c-93b0-37601a56b6aa" />
+
+<img width="288" height="291" alt="image" src="https://github.com/user-attachments/assets/57f3734e-9a60-4e41-be54-758eef370e7c" />
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0f00e5f-37b8-4bd6-888d-8c60259a9cb6" />
+
+
+
+만든 섬네일들
+
+https://www.youtube.com/watch?v=XyGB2osTSdI
+
+만든 동영상
+
+MUMUS, アルエ, ラシューシャ, 斑霞 구매비용으로 24000엔 소모
+
+
+https://ahzkwid.booth.pm/items/7886222
+
+그리고 공개했다
+
