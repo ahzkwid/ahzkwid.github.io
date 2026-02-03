@@ -5,3 +5,8 @@
 
 점프랑 이동 구상
 앉기, 눕기, 기본 5개
+
+
+# 2026-02-03
+<img width="414" height="485" alt="image" src="https://github.com/user-attachments/assets/303a2317-ee3d-40b0-a851-f8a67f177a9f" />
+제작개시
