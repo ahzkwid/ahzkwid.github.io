@@ -21,3 +21,5 @@
 쉬었음
 
 # 2026-02-08
+<img width="954" height="1104" alt="image" src="https://github.com/user-attachments/assets/cbdfc53b-b60b-4878-a33f-a38784ffe964" />
+기타를 완성시켰다
